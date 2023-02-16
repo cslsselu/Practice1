@@ -1,3 +1,3 @@
-#practice_template
+#Practice1
 
-Practice code--Anjalithapa
+Practice code --Anjali Thapa
